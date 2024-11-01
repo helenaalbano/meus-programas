@@ -1,0 +1,180 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Tiny5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Tiny5&display=swap');
+
+  
+  body{
+       background-color: black;
+       text-align: center;
+       h1{ color: white;
+
+            font-family: "Tiny5", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+
+          
+       }
+       color: white;
+       font-size: large;
+  }
+
+  header {
+    
+    
+    background-color: #395bf0; /* Cor de fundo */
+    color: white; /* Cor do texto */ 
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+  }
+
+  footer {
+    background-color: #395bf0; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+    padding: 20px; /* Espaçamento interno */
+    position: relative; /* Posiciona o rodapé */
+    bottom: 0; /* Fica na parte inferior */
+    width: 100%; /* Ocupa toda a largura */
+}
+
+  .paragrafo1{
+        color: rgb(224, 48, 92);
+        
+        font-family: "Tiny5", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+
+
+          
+  }
+
+  .paragrafo3{
+    color: rgb(231, 189, 74);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+  }
+
+  .paragrafo5{
+    color: rgb(50, 201, 70);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+  }
+
+  .paragrafo7{
+    color: rgb(233, 30, 81);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .paragrafo9{
+    color: rgb(241, 65, 52);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .paragrafo11{
+    color: rgb(0, 225, 255);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .paragrafo13{
+    color: rgb(219, 223, 27);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .paragrafo15{
+    color: rgb(255, 0, 98);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .paragrafo17{
+    color: rgb(224, 97, 12);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   }
+   
+   .paragrafo19{
+    color: rgb(243, 43, 136);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   }
+
+   .paragrafo21{
+    color: rgb(245, 151, 27);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   }
+   .paragrafo23{
+    color: rgb(243, 180, 43);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .paragrafo25{
+    color: rgb(3, 206, 94);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;    
+  }
+
+  .paragrafo27{
+    color: rgb(30, 166, 245);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .paragrafo29{
+    color: rgb(13, 226, 59);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .paragrafo31{
+    color: rgb(59, 94, 248);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;   
+  }
+
+  .paragrafo33{
+    color: rgb(53, 39, 253);
+    
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+   
+ 
+
